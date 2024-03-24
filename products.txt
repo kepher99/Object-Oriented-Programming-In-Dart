@@ -1,2 +1,3 @@
 Shirt,800.00,J.Crew
 TV,50000.00,Hisense
+Phone,25000.45,Tecno
